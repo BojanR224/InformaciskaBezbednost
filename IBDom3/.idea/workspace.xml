@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c7c0744-e8ff-4d45-8df6-43b3dca6dd07" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IBDom3" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mn1xzHLUvgWeRgW4EDJQXff9Tr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="STS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STS" />
+      <module name="IBDom3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.STS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c7c0744-e8ff-4d45-8df6-43b3dca6dd07" name="Default Changelist" comment="" />
+      <created>1610114792335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610114792335</updated>
+      <workItem from="1610114797368" duration="4152000" />
+      <workItem from="1610121139247" duration="4326000" />
+      <workItem from="1610207701380" duration="12809000" />
+      <workItem from="1610280230085" duration="6049000" />
+      <workItem from="1610375156342" duration="856000" />
+      <workItem from="1610376052693" duration="254000" />
+      <workItem from="1613480252812" duration="114000" />
+      <workItem from="1613568640533" duration="1739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="325" y="128" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610115828945">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="325" y="128" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1739.939@0.0.1739.939" timestamp="1610115828945" />
+    <state x="675" y="189" key="#com.intellij.ide.util.MemberChooser" timestamp="1610281901935">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="675" y="189" key="#com.intellij.ide.util.MemberChooser/0.0.1739.939@0.0.1739.939" timestamp="1610281901935" />
+    <state x="55" y="10" key="#xdebugger.evaluate" timestamp="1610284325709">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="55" y="10" key="#xdebugger.evaluate/0.0.1739.939@0.0.1739.939" timestamp="1610284325709" />
+    <state x="650" y="228" key="FileChooserDialogImpl" timestamp="1610218945777">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="650" y="228" key="FileChooserDialogImpl/0.0.1739.939@0.0.1739.939" timestamp="1610218945777" />
+    <state width="1696" height="147" key="GridCell.Tab.0.bottom" timestamp="1610376310774">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="147" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1610376310774" />
+    <state width="1696" height="147" key="GridCell.Tab.0.center" timestamp="1610376310774">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="147" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1610376310774" />
+    <state width="1696" height="147" key="GridCell.Tab.0.left" timestamp="1610376310774">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="147" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1610376310774" />
+    <state width="1696" height="147" key="GridCell.Tab.0.right" timestamp="1610376310774">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="147" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1610376310774" />
+    <state width="1696" height="281" key="GridCell.Tab.1.bottom" timestamp="1610376022601">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="281" key="GridCell.Tab.1.bottom/0.0.1739.939@0.0.1739.939" timestamp="1610376022601" />
+    <state width="1696" height="281" key="GridCell.Tab.1.center" timestamp="1610376022601">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="281" key="GridCell.Tab.1.center/0.0.1739.939@0.0.1739.939" timestamp="1610376022601" />
+    <state width="1696" height="281" key="GridCell.Tab.1.left" timestamp="1610376022601">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="281" key="GridCell.Tab.1.left/0.0.1739.939@0.0.1739.939" timestamp="1610376022601" />
+    <state width="1696" height="281" key="GridCell.Tab.1.right" timestamp="1610376022601">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="281" key="GridCell.Tab.1.right/0.0.1739.939@0.0.1739.939" timestamp="1610376022601" />
+    <state x="350" y="48" key="SettingsEditor" timestamp="1610376309366">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="350" y="48" key="SettingsEditor/0.0.1739.939@0.0.1739.939" timestamp="1610376309366" />
+    <state width="876" height="477" key="XDebugger.FullValuePopup" timestamp="1610283425796">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="876" height="477" key="XDebugger.FullValuePopup/0.0.1739.939@0.0.1739.939" timestamp="1610283425796" />
+    <state x="578" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1613480253374">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="578" y="298" key="com.intellij.ide.util.TipDialog/0.0.1739.939@0.0.1739.939" timestamp="1613480253374" />
+    <state x="298" y="97" key="new project wizard" timestamp="1613480361150">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="298" y="97" key="new project wizard/0.0.1739.939@0.0.1739.939" timestamp="1613480361150" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/STS.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/STS.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
